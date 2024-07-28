@@ -1,3 +1,4 @@
+#un repite frases
 import discord
 
 # La variable intents almacena los privilegios del bot
